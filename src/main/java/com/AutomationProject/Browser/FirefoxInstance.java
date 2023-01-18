@@ -15,4 +15,9 @@ public class FirefoxInstance extends BaseDriver {
 		return driver;
 	}
 
+
+	public void setBrowserProperties()
+	{
+		//In future if you want to set any chrome driver related properties ,you can add here
+	}
 }
